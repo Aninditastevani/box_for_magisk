@@ -1,4 +1,4 @@
-name: Delete old workflow runs
+box_for_magisk: Delete old workflow runs
 
 on:
   workflow_dispatch:
